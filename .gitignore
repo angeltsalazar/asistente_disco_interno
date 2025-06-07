@@ -1,0 +1,18 @@
+# Archivos de configuración local y sensibles
+config/migration_state.json
+config/migration_state.json.backup
+config/jobs/
+
+# Logs
+logs/
+
+# Dependencias de Node.js (para mcp-disk-assistant)
+mcp-disk-assistant/node_modules/
+mcp-disk-assistant/dist/
+
+# Archivos de backup generales
+*.backup
+
+# Archivos temporales o de caché
+.DS_Store
+*.log

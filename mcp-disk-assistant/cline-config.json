@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "disk-assistant": {
+      "command": "node",
+      "args": ["/Volumes/BLACK2T/UserContent_macmini/Documents/Documents/asistente_disco_interno/mcp-disk-assistant/dist/index.js"],
+      "cwd": "/Volumes/BLACK2T/UserContent_macmini/Documents/Documents/asistente_disco_interno",
+      "env": {
+        "DISK_ASSISTANT_BASE_PATH": "/Volumes/BLACK2T/UserContent_macmini/Documents/Documents/asistente_disco_interno",
+        "NODE_ENV": "production"
+      }
+    }
+  },
+  "cline.mcpServers": {
+    "disk-assistant": {
+      "command": "node",
+      "args": ["/Volumes/BLACK2T/UserContent_macmini/Documents/Documents/asistente_disco_interno/mcp-disk-assistant/dist/index.js"],
+      "cwd": "/Volumes/BLACK2T/UserContent_macmini/Documents/Documents/asistente_disco_interno"
+    }
+  }
+}
